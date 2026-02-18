@@ -2,9 +2,10 @@
 
 A simple command-line task manager for PhD students to manage homework and study tasks.
 
-**University of Mohamed Kheider – Biskra**  
-**Course:** Programming  
-**Student:** PhD students: Mahdi Bentaleb - Lahcene Mamen 
+**University of Mohamed Kheider – Biskra**
+**Course:** Programming
+**Students:** Mahdi Bentaleb - Lahcene Mamen
+**Supervisor:** Prof. Adel Abdelli (adel.abdelli@univ-biskra.dz)
 **Academic Year:** 2025/2026
 
 ## Features
