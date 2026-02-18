@@ -81,6 +81,12 @@ Enter task description (optional): Finish the task manager project
 .
 ├── tasks.py          # Main application file
 ├── tasks.json        # JSON file for storing tasks (auto-created)
+├── Screenshots/      # Application screenshots
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   └── 5.png
 └── README.md         # This file
 ```
 
