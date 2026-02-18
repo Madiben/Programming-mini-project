@@ -148,6 +148,7 @@ def display_menu():
     """Display the main menu."""
     print("\n" + "=" * 70)
     print("TASK MANAGER - University of Mohamed Kheider, Biskra")
+    print("Developed by students: Mahdi Bentaleb and Lahcene Mamen")
     print("=" * 70)
     print("1. Add new task")
     print("2. View all tasks")
